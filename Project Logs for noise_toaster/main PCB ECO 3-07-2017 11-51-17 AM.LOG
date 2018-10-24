@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetQ10_1 Pin=Repeat-1
+Removed Pin From Net: NetName=NetD2_1 Pin=Repeat-2
+Removed Pin From Net: NetName=NetR58_2 Pin=Repeat-3
+Removed Pin From Net: NetName=NetC17_1 Pin=S9-1
+Removed Pin From Net: NetName=NetC19_2 Pin=S9-3
+Removed Member From Class: ClassName=AD Generator Member=Repeat
+Change Component Footprint: Designator=S3 Old Footprint=TL36WW15050 New Footprint=SPDT Switch
+Change Component Footprint: Designator=S6 Old Footprint=TL36WW15050 New Footprint=SPDT Switch
+Change Component Footprint: Designator=S9 Old Footprint=TL36WW15050 New Footprint=SPDT Switch
+Change Component Comment : Designator=S9 Old Comment=SW-SPDT New Comment=SPDT Switch
+Change component parameters: Designator = "S3"; Footprint = "SPDT Switch"; UniqueID = "\HWUDGJLU\AFNCKEJM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "S6"; Footprint = "SPDT Switch"; UniqueID = "\HWUDGJLU\BBGKLJLW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "S9"; Footprint = "SPDT Switch"; UniqueID = "\VTJWKLXE\XYDHHUUU"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=S8(SPDT Switch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetQ10_1 Pin=S8-1
+Added Pin To Net: NetName=NetD2_1 Pin=S8-2
+Added Pin To Net: NetName=NetR58_2 Pin=S8-3
+Added Pin To Net: NetName=NetC19_2 Pin=S9-1
+Added Pin To Net: NetName=NetC17_1 Pin=S9-3
+Added Member To Class: ClassName=AD Generator Member=Component S8 Repeat

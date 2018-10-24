@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=BP Pin=Q9-1
+Removed Pin From Net: NetName=NetQ9_3 Pin=Q9-3
+Removed Member From Class: ClassName=AD Generator Member=Q9
+Added Component: Designator=Q9 2N5457(ONSC-TO-92-3-29-11)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Channel Polarity"; Value = "N Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/J309-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDSS Max (uA)"; Value = "60000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDSS Min (uA)"; Value = "24000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "J310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "J310OS-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "V(BR)GSS Min (V)"; Value = "25"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BP Pin=Q9 2N5457-1
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9 2N5457-2
+Change Net Name : Old Net Name=NetQ9_3 New Net Name=NetQ9 2N5457_2
+Added Pin To Net: NetName=NetQ9 2N5457_3 Pin=Q9 2N5457-3
+Added Pin To Net: NetName=NetQ9 2N5457_3 Pin=R52-2
+Added Net: Name=NetQ9 2N5457_3
+Added Member To Class: ClassName=AD Generator Member=Component Q9 2N5457 

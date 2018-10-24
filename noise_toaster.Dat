@@ -1,0 +1,33 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~143|Field=Description~String~Description~4638|Field=Designator~String~Designator~1166|Field=Footprint~String~Footprint~138|Field=LibRef~String~LibRef~88|Field=Quantity~Integer~Quantity~67|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~noise_toaster.PrjPcb|ReportField=ProjectFullPath~F:\Google Drive\Electronics\noise toaster\noise_toaster.PrjPcb|ReportField=Title~Bill of Materials For Project [noise_toaster.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~155|ReportField=ReportTime~1:57:54 PM|ReportField=ReportDate~14/07/2017|ReportField=ReportDateTime~14/07/2017 1:57:54 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~14/07/2017|ReportField=CurrentTime~1:25:59 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\Google Drive\Electronics\noise toaster\Top.SchDoc|ReportField=DocumentName~Top.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~14/07/2017|ReportField=Organization~|ReportField=ProjectName~noise_toaster.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~noise_toaster.PrjPcb|ReportField=DataSourceFullPath~F:\Google Drive\Electronics\noise toaster\noise_toaster.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|9V Battery|Multicell Battery|B1|BAT-2|Battery|1
+2|Film||C1, C2, C6, C7, C8, C9, C10, C11, C12|Cap Film 5|Cap Film 5|9
+3|Cap Film 5||C3, C16, C17, C19, C20, C21, C24|Cap Film 5|Cap Film 5|7
+4||Capacitor|C4, C5, C15, C18, C22, C23, C25, C26, C99|CAPR5-4X5|Cap2|9
+5|Cap2|Capacitor|C13, C14|CAPR5-4X5|Cap2|2
+6|Diode 1N914|High Conductance Fast Diode|D1, D2, D3|DO-35|Diode 1N914|3
+7|LED0|Typical INFRARED GaAs LED|D5|LED-0|LED0|1
+8|Speaker 8ohm 1W|Loudspeaker|LS1|PIN2|Speaker|1
+9|S10|Switch|Manual Gate|SPST-2|SW-PB|1
+10|LineOut|Stereo Jack|Output|Stereo Jack|Stereo Jack|1
+11|MMBF4391LT1|JFET Switching Transistor, N-Channel, 3-Pin SOT-23, Tape and Reel|Q1, Q7, Q8, Q9|ONSC-SOT-23-3-318-08_V|MMBF4391LT1|4
+12|MMBT3904TT1G|General Purpose Transistor, NPN Silicon, 3-Pin SC-75, Pb-Free, Tape and Reel|Q2, Q3, Q4, Q5, Q6|ONSC-SC-75-3-463-01_V|MMBT3904TT1G|5
+13|MMBT3906TT1G|General Purpose Transistor, PNP Silicon, 3-Pin SC-75, Pb-Free, Tape and Reel|Q10|ONSC-SC-75-3-463-01_V|MMBT3906TT1G|1
+14|Potentiometer|My Own|R1, R13, R20, R28, R29, R38, R49, R51, R53|Potentiometer|Potentiometer|9
+15|Res1|Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Metal Film Resistors - Through Hole 1/4watt 10Kohms 5% Rated to 1/2watt, Resistor, Metal Film Resistors - Through Hole 1/4watt 10Kohms 5% Rated to 1/2watt, Resistor, Resistor, Resistor, Resistor, Metal Film Resistors - Through Hole 1/4watt 10Kohms 5% Rated to 1/2watt, Resistor, Resistor, Resistor, Metal Film Resistors - Through Hole 1/4watt 10Kohms 5% Rated to 1/2watt, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Metal Film Resistors - Through Hole 1/4watt 10Kohms 5% Rated to 1/2watt, Metal Film Resistors - Through Hole 1/4watt 10Kohms 5% Rated to 1/2watt, Resistor, Resistor, Resistor, Metal Film Resistors - Through Hole 1/4watt 10Kohms 5% Rated to 1/2watt, Resistor|R2, R5, R6, R7, R8, R9, R10, R11, R12, R15, R17, R18, R19, R24, R25, R26, R27, R30, R31, R32, R33, R34, R35, R36, R37, R39, R40, R41, R42, R43, R44, R45, R46, R47, R48, R50, R55, R56, R57, R59, R60, R61, R62, R65, R67, R68, R69, R70|AXIAL-0.3|Res1|48
+16|Res3|Resistor, Metal Film Resistors - Through Hole 1/4watt 10Kohms 5% Rated to 1/2watt, Resistor, Resistor, Resistor|R3, R4, R16, R22, R23|AXIAL-0.3|Res1|5
+17||Resistor|R14, R21, R54|AXIAL-0.3|Res1|3
+18|R52|Metal Film Resistors - Through Hole 1/4watt 10Kohms 5% Rated to 1/2watt, Resistor, Resistor, Resistor|R52, R58, R63, R64|AXIAL-0.3|Res1|4
+19|100K|My Own|R66|Potentiometer|Potentiometer|1
+20|AR Mod On/Off|Single-Pole, Single-Throw Switch|S1|SPST-2|SW-SPST|1
+21|Sync Effect|Single-Pole, Single-Throw Switch|S2|SPST-2|SW-SPST|1
+22|VCO WAVE TO VCF SELECT|SPDT Switch|S3|SPDT Switch|SPDT Switch|1
+23|NOISE TO VCF|Single-Pole, Single-Throw Switch|S4|SPST-2|SW-SPST|1
+24|VCA Bypass|Single-Pole, Single-Throw Switch|S5|SPST-2|SW-SPST|1
+25|VCF Mod Source Select|SPDT Switch|S6|SPDT Switch|SPDT Switch|1
+26|SW-SPST|Single-Pole, Single-Throw Switch|S7|SPST-2|SW-SPST|1
+27|Repeat|SPDT Switch|S8|SPDT Switch|SPDT Switch|1
+28|SPDT Switch|SPDT Switch|S9|SPDT Switch|SPDT Switch|1
+29|Power Supply Switch|Single-Pole, Single-Throw Switch|S11|SPST-2|SW-SPST|1
+30|LM386N-1|Low Voltage Audio Power Amplifier, 8-pin MDIP|U Amp|N08E|LM386N-1|1
+31|LM324J|Low Power Quad Operational Amplifier, 14-pin CerDIP|U1, U2|J14A|LM324J|2
+32|Pad||X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15, X16, X17, X18, X19, X20, X21, X22, X23, X24, X25, X26, X27|Pad|Pad|27

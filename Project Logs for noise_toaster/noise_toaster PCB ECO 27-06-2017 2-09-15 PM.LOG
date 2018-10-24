@@ -1,0 +1,118 @@
+Removed Pin From Net: NetName=BN Pin=U1-4
+Removed Pin From Net: NetName=BP Pin=U1-11
+Removed Pin From Net: NetName=NetD1_1 Pin=U1-B-1
+Removed Pin From Net: NetName=NetC6_1 Pin=U1-B-2
+Removed Pin From Net: NetName=NetR7_1 Pin=U1-B-3
+Removed Pin From Net: NetName=BP Pin=U1-B-4
+Removed Pin From Net: NetName=BN Pin=U1-B-11
+Removed Pin From Net: NetName=NetQ3_2 Pin=U1-C-1
+Removed Pin From Net: NetName=NetR2_2 Pin=U1-C-2
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-C-3
+Removed Pin From Net: NetName=BP Pin=U1-C-4
+Removed Pin From Net: NetName=BN Pin=U1-C-11
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-D-1
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-D-2
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-D-3
+Removed Pin From Net: NetName=BP Pin=U1-D-4
+Removed Pin From Net: NetName=BN Pin=U1-D-11
+Removed Pin From Net: NetName=BN Pin=U2-4
+Removed Pin From Net: NetName=BP Pin=U2-11
+Removed Pin From Net: NetName=NetR31_1 Pin=U2-B-1
+Removed Pin From Net: NetName=NetR26_2 Pin=U2-B-2
+Removed Pin From Net: NetName=NetC11_1 Pin=U2-B-3
+Removed Pin From Net: NetName=BP Pin=U2-B-4
+Removed Pin From Net: NetName=BN Pin=U2-B-11
+Removed Pin From Net: NetName=NetC17_1 Pin=U2-C-1
+Removed Pin From Net: NetName=NetC16_1 Pin=U2-C-2
+Removed Pin From Net: NetName=NetR55_2 Pin=U2-C-3
+Removed Pin From Net: NetName=BP Pin=U2-C-4
+Removed Pin From Net: NetName=BN Pin=U2-C-11
+Removed Pin From Net: NetName=NetR58_2 Pin=U2-D-1
+Removed Pin From Net: NetName=NetQ9_3 Pin=U2-D-2
+Removed Pin From Net: NetName=NetR58_1 Pin=U2-D-3
+Removed Pin From Net: NetName=BP Pin=U2-D-4
+Removed Pin From Net: NetName=BN Pin=U2-D-11
+Removed Member From Class: ClassName=VCO Member=U1-B
+Removed Member From Class: ClassName=VCO Member=U1-C
+Removed Member From Class: ClassName=VCO Member=U1-D
+Removed Member From Class: ClassName=VCO Member=U2-B
+Removed Member From Class: ClassName=LFO Member=U2-C
+Removed Member From Class: ClassName=AD Generator Member=U2-D
+Change Component Footprint: Designator=U1 Old Footprint=N14A New Footprint=J14A
+Change Component Footprint: Designator=U2 Old Footprint=N14A New Footprint=J14A
+Change Component Comment : Designator=U1 Old Comment=LM324N New Comment=LM324J
+Change Component Comment : Designator=U2 Old Comment=LM324N New Comment=LM324J
+Change component parameters: Designator = "U1"; Footprint = "J14A"; UniqueID = "\DYRTWNSC\FFRWDHMI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "LM324 Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/ds/LM/LM324.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "LM324 Web Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/pf/LM/LM324.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "J14A Package Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.national.com/packaging/folders/j14a.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Aug-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High-Reliability"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Cerdip, .400 x .310in Body, 14 Lead, .300in Centers, .100in Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J14A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYYTT*LM324J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revJ, Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "LM324J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "J14A"; UniqueID = "\HWUDGJLU\WOMJPKQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "LM324 Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/ds/LM/LM324.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "LM324 Web Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/pf/LM/LM324.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "J14A Package Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.national.com/packaging/folders/j14a.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Aug-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High-Reliability"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Cerdip, .400 x .310in Body, 14 Lead, .300in Centers, .100in Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J14A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYYTT*LM324J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revJ, Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "LM324J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BP Pin=U1-4
+Added Pin To Net: NetName=NetR7_1 Pin=U1-5
+Added Pin To Net: NetName=NetC6_1 Pin=U1-6
+Added Pin To Net: NetName=NetD1_1 Pin=U1-7
+Added Pin To Net: NetName=NetQ3_2 Pin=U1-8
+Added Pin To Net: NetName=NetR2_2 Pin=U1-9
+Added Pin To Net: NetName=NetC4_1 Pin=U1-10
+Added Pin To Net: NetName=BN Pin=U1-11
+Added Pin To Net: NetName=NetC4_1 Pin=U1-12
+Added Pin To Net: NetName=NetC1_1 Pin=U1-13
+Added Pin To Net: NetName=NetC1_2 Pin=U1-14
+Added Pin To Net: NetName=BP Pin=U2-4
+Added Pin To Net: NetName=NetR26_2 Pin=U2-5
+Added Pin To Net: NetName=NetC11_1 Pin=U2-6
+Added Pin To Net: NetName=NetR31_1 Pin=U2-7
+Added Pin To Net: NetName=NetC17_1 Pin=U2-8
+Added Pin To Net: NetName=NetC16_1 Pin=U2-9
+Added Pin To Net: NetName=NetR55_2 Pin=U2-10
+Added Pin To Net: NetName=BN Pin=U2-11
+Added Pin To Net: NetName=NetR58_1 Pin=U2-12
+Added Pin To Net: NetName=NetQ9_3 Pin=U2-13
+Added Pin To Net: NetName=NetR58_2 Pin=U2-14
+Added Room: Name=AD Generator
+Added Room: Name=Audio Amplifier
+Added Room: Name=LFO
+Added Room: Name=Top
+Added Room: Name=VCA
+Added Room: Name=VC LPF
+Added Room: Name=VCO
+Added Room: Name=White Noise Generator

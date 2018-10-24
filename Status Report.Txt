@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[main.BOM]
+   Generated File[main.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 10:44:14 AM On 11/07/2017

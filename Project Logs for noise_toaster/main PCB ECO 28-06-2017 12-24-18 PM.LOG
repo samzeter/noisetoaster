@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=BN Pin=C26-1
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C16 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C17 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C19 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C21 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C22 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C25 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C99 Old DesignItemId=Cap Pol1 New DesignItemId=Cap2
+Change Component DesignItemId : Designator=R14 Old DesignItemId=ERJ-8BWJR033V New DesignItemId=Res1
+Change Component DesignItemId : Designator=R21 Old DesignItemId=ERJ-8BWJR033V New DesignItemId=Res1
+Change Component DesignItemId : Designator=C26 Old DesignItemId=GRM31A7U2J471JW31D New DesignItemId=Cap2
+Change Component Footprint: Designator=C1 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C16 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C17 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C19 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C21 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C22 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C25 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C99 Old Footprint=RB7.6-15 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=R14 Old Footprint=SMD-1206-RES New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R21 Old Footprint=SMD-1206-RES New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=C26 Old Footprint=SMD-1206C New Footprint=CAPR5-4X5
+Change Component Comment : Designator=R14 Old Comment=0.033 New Comment=
+Change Component Comment : Designator=R21 Old Comment=0.033 New Comment=
+Change Component Comment : Designator=C26 Old Comment=470uF New Comment=
+Change Component Comment : Designator=C22 Old Comment=Electro New Comment=
+Change Component Comment : Designator=C99 Old Comment=Electro New Comment=
+Change Component Description : Designator=C26 Old Description=CAP CER 470PF 630V U2J 1206 New Description=Capacitor
+Change Component Description : Designator=C1 Old Description=Polarized Capacitor (Radial) New Description=Capacitor
+Change Component Description : Designator=C16 Old Description=Polarized Capacitor (Radial) New Description=Capacitor
+Change Component Description : Designator=C17 Old Description=Polarized Capacitor (Radial) New Description=Capacitor
+Change Component Description : Designator=C19 Old Description=Polarized Capacitor (Radial) New Description=Capacitor
+Change Component Description : Designator=C21 Old Description=Polarized Capacitor (Radial) New Description=Capacitor
+Change Component Description : Designator=C22 Old Description=Polarized Capacitor (Radial) New Description=Capacitor
+Change Component Description : Designator=C25 Old Description=Polarized Capacitor (Radial) New Description=Capacitor
+Change Component Description : Designator=C99 Old Description=Polarized Capacitor (Radial) New Description=Capacitor
+Change Component Description : Designator=R14 Old Description=RES SMD 0.033 OHM 5% 1W 1206 New Description=Resistor
+Change Component Description : Designator=R21 Old Description=RES SMD 0.033 OHM 5% 1W 1206 New Description=Resistor
+Change Component Library : Designator=C26 Old Library=capacitor_murata_1206.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R14 Old Library=Panasonic_ERJ_1206.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R21 Old Library=Panasonic_ERJ_1206.IntLib New Library=Miscellaneous Devices.IntLib
+Change component parameters: Designator = "C1"; Footprint = "CAPR5-4X5"; UniqueID = "\DYRTWNSC\WKLVRDNW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16"; Footprint = "CAPR5-4X5"; UniqueID = "\VTJWKLXE\IDKMEWYH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17"; Footprint = "CAPR5-4X5"; UniqueID = "\VTJWKLXE\YFQWLFHO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19"; Footprint = "CAPR5-4X5"; UniqueID = "\VTJWKLXE\VXGMWWHP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21"; Footprint = "CAPR5-4X5"; UniqueID = "\QHYBANRD\OKYFYJDP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "CAPR5-4X5"; UniqueID = "\QHYBANRD\LPTYXPTE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25"; Footprint = "CAPR5-4X5"; UniqueID = "\QHYBANRD\QCXJCYCK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C99"; Footprint = "CAPR5-4X5"; UniqueID = "\QHYBANRD\UMEYMTQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26"; Footprint = "CAPR5-4X5"; UniqueID = "\VTJWKLXE\WITYJJRT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14"; Footprint = "AXIAL-0.3"; UniqueID = "\DYRTWNSC\RACSWYTP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21"; Footprint = "AXIAL-0.3"; UniqueID = "\DYRTWNSC\HPFJRLSC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "36K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BN Pin=C26-2
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=R65-1
+Added Pin To Net: NetName=NetC26_1 Pin=R70-2
+Added Net: Name=NetC26_1

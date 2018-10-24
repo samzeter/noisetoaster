@@ -1,0 +1,30 @@
+Change Component Parameter Description in R69 Old=Resistor New=Metal Film Resistors - Through Hole 1/4watt 10Kohms 5% Rated to 1/2watt
+Added Parameter Brand=Vishay / Dale to Part R67
+Added Parameter Category=Metal Film Resistors - Through Hole to Part R67
+Added Parameter ComponentLink1Description=http://www.mouser.com/ds/2/427/cmfind-239942.pdf to Part R67
+Added Parameter ComponentLink1URL=http://www.mouser.com/ds/2/427/cmfind-239942.pdf to Part R67
+Added Parameter Diameter=2.29 mm to Part R67
+Added Parameter Lead Diameter=0.64 mm to Part R67
+Added Parameter Length=6.1 mm to Part R67
+Added Parameter Manufacturer=Vishay / Dale to Part R67
+Added Parameter Manufacturer Part Number=CMF55100K00FHEK to Part R67
+Added Parameter Minimum Order Quantity=1 to Part R67
+Added Parameter Operating Temperature Range=- 55 C to + 175 C to Part R67
+Added Parameter Packaging=Bulk to Part R67
+Added Parameter Power Rating=500 mW (1/2 W) to Part R67
+Added Parameter Pricing 1=1=0.230, 25=0.181, 100=0.132, 500=0.115, 1000=0.099, 2000=0.092, 5000=0.087, 10000=0.082, 25000=0.072 (USD) to Part R67
+Added Parameter Product=Metal Film Resistors Controlled Temp Coefficient to Part R67
+Added Parameter Reeling=False to Part R67
+Added Parameter Resistance=100 kOhms to Part R67
+Added Parameter RoHS - Mouser=Y to Part R67
+Added Parameter RoHS=RoHS Compliant to Part R67
+Added Parameter Series=CMF Industrial to Part R67
+Added Parameter Standard Pack Qty=100 to Part R67
+Added Parameter Stock 1=4041 to Part R67
+Added Parameter Supplier 1=Mouser to Part R67
+Added Parameter Supplier Part Number 1=71-CMF55100K00FHEK to Part R67
+Added Parameter Temperature Coefficient=50 PPM / C to Part R67
+Added Parameter Termination Style=Axial to Part R67
+Added Parameter Tolerance=1 % to Part R67
+Added Parameter Type=Metal Film Resistors, Industrial, Precision to Part R67
+Added Parameter Voltage Rating=250 V to Part R67

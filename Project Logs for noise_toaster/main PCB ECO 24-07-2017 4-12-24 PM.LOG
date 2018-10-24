@@ -1,0 +1,1034 @@
+Change Component Comment : Designator=C4 Old Comment= New Comment=0.1uF
+Change Component Comment : Designator=C5 Old Comment= New Comment=0.1uF
+Change Component Comment : Designator=R54 Old Comment= New Comment=4.7K
+Change Component Comment : Designator=C18 Old Comment= New Comment=4.7uF
+Change Component Comment : Designator=C25 Old Comment= New Comment=10uF
+Change Component Comment : Designator=C99 Old Comment= New Comment=10uF
+Change Component Comment : Designator=R21 Old Comment= New Comment=36K
+Change Component Comment : Designator=R14 Old Comment= New Comment=100K
+Change Component Comment : Designator=C22 Old Comment= New Comment=220uF
+Change Component Comment : Designator=C15 Old Comment= New Comment=470uF
+Change Component Comment : Designator=C23 Old Comment= New Comment=470uF
+Change Component Comment : Designator=C26 Old Comment= New Comment=470uF
+Change Component Comment : Designator=C13 Old Comment=Cap2 New Comment=10uF
+Change Component Comment : Designator=C14 Old Comment=Cap2 New Comment=10uF
+Change Component Comment : Designator=C3 Old Comment=Cap Film 5 New Comment=0.1uF
+Change Component Comment : Designator=C16 Old Comment=Cap Film 5 New Comment=1uF
+Change Component Comment : Designator=C17 Old Comment=Cap Film 5 New Comment=1uF
+Change Component Comment : Designator=C19 Old Comment=Cap Film 5 New Comment=1uF
+Change Component Comment : Designator=C21 Old Comment=Cap Film 5 New Comment=1uF
+Change Component Comment : Designator=C20 Old Comment=Cap Film 5 New Comment=.1uF
+Change Component Comment : Designator=D1 Old Comment=Diode 1N914 New Comment=1N914
+Change Component Comment : Designator=C2 Old Comment=Film New Comment=0.001uF
+Change Component Comment : Designator=C6 Old Comment=Film New Comment=0.01uF
+Change Component Comment : Designator=C7 Old Comment=Film New Comment=0.1uF
+Change Component Comment : Designator=C8 Old Comment=Film New Comment=0.1uF
+Change Component Comment : Designator=C9 Old Comment=Film New Comment=0.001uF
+Change Component Comment : Designator=C10 Old Comment=Film New Comment=0.001uF
+Change Component Comment : Designator=C11 Old Comment=Film New Comment=0.1uF
+Change Component Comment : Designator=C12 Old Comment=Film New Comment=0.1uF
+Change Component Comment : Designator=C1 Old Comment=Film New Comment=100pF
+Change Component Comment : Designator=Q1 Old Comment=MMBF4391LT1 New Comment=Q1
+Change Component Comment : Designator=Q7 Old Comment=MMBF4391LT1 New Comment=Q7
+Change Component Comment : Designator=Q8 Old Comment=MMBF4391LT1 New Comment=Q8
+Change Component Comment : Designator=Q9 Old Comment=MMBF4391LT1 New Comment=Q9
+Change Component Comment : Designator=Q2 Old Comment=MMBT3904TT1G New Comment=Q2
+Change Component Comment : Designator=Q3 Old Comment=MMBT3904TT1G New Comment=Q3
+Change Component Comment : Designator=Q4 Old Comment=MMBT3904TT1G New Comment=Q4
+Change Component Comment : Designator=Q5 Old Comment=MMBT3904TT1G New Comment=Q5
+Change Component Comment : Designator=Q6 Old Comment=MMBT3904TT1G New Comment=Q6
+Change Component Comment : Designator=Q10 Old Comment=MMBT3906TT1G New Comment=Q10
+Change Component Comment : Designator=X1 Old Comment=Pad New Comment=X1
+Change Component Comment : Designator=X2 Old Comment=Pad New Comment=X2
+Change Component Comment : Designator=X3 Old Comment=Pad New Comment=X3
+Change Component Comment : Designator=X4 Old Comment=Pad New Comment=X4
+Change Component Comment : Designator=X6 Old Comment=Pad New Comment=X6
+Change Component Comment : Designator=X7 Old Comment=Pad New Comment=X7
+Change Component Comment : Designator=X9 Old Comment=Pad New Comment=X9
+Change Component Comment : Designator=X10 Old Comment=Pad New Comment=X10
+Change Component Comment : Designator=X11 Old Comment=Pad New Comment=X11
+Change Component Comment : Designator=X12 Old Comment=Pad New Comment=X12
+Change Component Comment : Designator=X13 Old Comment=Pad New Comment=X13
+Change Component Comment : Designator=X14 Old Comment=Pad New Comment=X14
+Change Component Comment : Designator=X15 Old Comment=Pad New Comment=X15
+Change Component Comment : Designator=X16 Old Comment=Pad New Comment=X16
+Change Component Comment : Designator=X17 Old Comment=Pad New Comment=X17
+Change Component Comment : Designator=X18 Old Comment=Pad New Comment=X18
+Change Component Comment : Designator=X19 Old Comment=Pad New Comment=X19
+Change Component Comment : Designator=X20 Old Comment=Pad New Comment=X20
+Change Component Comment : Designator=X21 Old Comment=Pad New Comment=X21
+Change Component Comment : Designator=X23 Old Comment=Pad New Comment=X23
+Change Component Comment : Designator=X24 Old Comment=Pad New Comment=X24
+Change Component Comment : Designator=X25 Old Comment=Pad New Comment=X25
+Change Component Comment : Designator=X26 Old Comment=Pad New Comment=X26
+Change Component Comment : Designator=X27 Old Comment=Pad New Comment=X27
+Change Component Comment : Designator=R52 Old Comment=R52 New Comment=10K
+Change Component Comment : Designator=R58 Old Comment=R52 New Comment=100K
+Change Component Comment : Designator=R63 Old Comment=R52 New Comment=150K
+Change Component Comment : Designator=R64 Old Comment=R52 New Comment=150K
+Change Component Comment : Designator=R8 Old Comment=Res1 New Comment=1M
+Change Component Comment : Designator=R46 Old Comment=Res1 New Comment=1M
+Change Component Comment : Designator=R11 Old Comment=Res1 New Comment=2K
+Change Component Comment : Designator=R5 Old Comment=Res1 New Comment=2M
+Change Component Comment : Designator=R30 Old Comment=Res1 New Comment=2M
+Change Component Comment : Designator=R48 Old Comment=Res1 New Comment=3K
+Change Component Comment : Designator=R65 Old Comment=Res1 New Comment=3K
+Change Component Comment : Designator=R70 Old Comment=Res1 New Comment=3K
+Change Component Comment : Designator=R34 Old Comment=Res1 New Comment=3M
+Change Component Comment : Designator=R37 Old Comment=Res1 New Comment=4.7K
+Change Component Comment : Designator=R33 Old Comment=Res1 New Comment=4.7M
+Change Component Comment : Designator=R35 Old Comment=Res1 New Comment=4.7M
+Change Component Comment : Designator=R69 Old Comment=Res1 New Comment=10
+Change Component Comment : Designator=R6 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R9 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R12 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R15 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R17 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R26 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R32 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R61 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R62 Old Comment=Res1 New Comment=10K
+Change Component Comment : Designator=R18 Old Comment=Res1 New Comment=15K
+Change Component Comment : Designator=R68 Old Comment=Res1 New Comment=20K
+Change Component Comment : Designator=R39 Old Comment=Res1 New Comment=39K
+Change Component Comment : Designator=R40 Old Comment=Res1 New Comment=39K
+Change Component Comment : Designator=R27 Old Comment=Res1 New Comment=47K
+Change Component Comment : Designator=R36 Old Comment=Res1 New Comment=47K
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=75K
+Change Component Comment : Designator=R56 Old Comment=Res1 New Comment=75K
+Change Component Comment : Designator=R24 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R25 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R31 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R44 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R45 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R47 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R55 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R59 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R60 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R67 Old Comment=Res1 New Comment=100K
+Change Component Comment : Designator=R57 Old Comment=Res1 New Comment=200
+Change Component Comment : Designator=R7 Old Comment=Res1 New Comment=300K
+Change Component Comment : Designator=R10 Old Comment=Res1 New Comment=470K
+Change Component Comment : Designator=R19 Old Comment=Res1 New Comment=470K
+Change Component Comment : Designator=R41 Old Comment=Res1 New Comment=470K
+Change Component Comment : Designator=R50 Old Comment=Res1 New Comment=Res1820
+Change Component Comment : Designator=R16 Old Comment=Res3 New Comment=2M
+Change Component Comment : Designator=R22 Old Comment=Res3 New Comment=4.7K
+Change Component Comment : Designator=R23 Old Comment=Res3 New Comment=4.7K
+Change Component Comment : Designator=r4 Old Comment=Res3 New Comment=10K
+Change Component Comment : Designator=R3 Old Comment=Res3 New Comment=270K
+Change Component Designator: OldDesignator=R42 NewDesignator=4.7K
+Added Component: Designator=D2(DO-35)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Diodes - General Purpose, Power, Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.mouser.com/ds/2/308/1N914-1118223.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.mouser.com/ds/2/308/1N914-1118223.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.91 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If - Forward Current"; Value = "0.3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ir - Reverse Current"; Value = "5 uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.56 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+ 175 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Surge Current"; Value = "4 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "- 65 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 3.8 x 1.9 mm (LxDia. max), Lead Dia. 0.53 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.100, 10=0.075, 100=0.027, 1000=0.018, 2500=0.014, 10000=0.012, 25000=0.011, 50000=0.010, 100000=0.008 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Switching Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recovery Time"; Value = "4 ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "1N914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "44120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "512-1N914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Small Signal Switching Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf - Forward Voltage"; Value = "1 V at 0.01 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr - Reverse Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.91 mm"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO-35)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Diodes - General Purpose, Power, Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.mouser.com/ds/2/308/1N914-1118223.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.mouser.com/ds/2/308/1N914-1118223.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.91 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If - Forward Current"; Value = "0.3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ir - Reverse Current"; Value = "5 uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.56 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+ 175 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Surge Current"; Value = "4 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "- 65 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 3.8 x 1.9 mm (LxDia. max), Lead Dia. 0.53 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.100, 10=0.075, 100=0.027, 1000=0.018, 2500=0.014, 10000=0.012, 25000=0.011, 50000=0.010, 100000=0.008 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Switching Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recovery Time"; Value = "4 ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "1N914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "44120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "512-1N914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Small Signal Switching Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf - Forward Voltage"; Value = "1 V at 0.01 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr - Reverse Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.91 mm"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED-0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Broadcom / Avago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Standard LEDs - Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If - Forward Current"; Value = "10 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LED Size"; Value = "T-1 (3 mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color/Style"; Value = "Tinted, Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Dimensions"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Shape"; Value = "Dome"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "3.4 mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Broadcom / Avago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HLMP-1301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+ 100 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "- 40 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "1.9 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "T-1 (3 mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.370, 10=0.240, 100=0.138, 1000=0.108, 2000=0.090, 10000=0.084, 24000=0.082, 50000=0.079, 100000=0.075 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "32479"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "630-HLMP-1301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf - Forward Voltage"; Value = "1.9 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "60 deg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "635 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength/Color Temperature"; Value = "635 nm"; VariantName = "[No Variations]"
+Added Component: Designator=LS1(PIN2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Speakers & Transducers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/670/cms-23558n-l152-959413.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/670/cms-23558n-l152-959413.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cone Material"; Value = "Mylar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "5.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "23 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "550 Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "8 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnet Material"; Value = "Neodymium Iron Boron (NdFeB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CMS-23558N-L152"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 20 C to + 55 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.42, 10=3.07, 50=2.39, 100=2.30, 200=2.22, 500=2.13, 1000=2.09 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Speakers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Status"; Value = "New Product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CMS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Round"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sound Pressure Level"; Value = "94 dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-CMS-23558N-L152"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Wire Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Speaker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "2.83 V"; VariantName = "[No Variations]"
+Added Component: Designator=Manual Gate(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator"; Value = "Round"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Pushbutton Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/60/-19155.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/60/-19155.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Form"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "100 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "D6R90 F1 LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "3 VA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.770, 25=0.731, 50=0.694, 100=0.676, 250=0.658, 500=0.621, 1000=0.585 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "D6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "8406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "611-D6R90LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - (OFF)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "32 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=Output(Stereo Jack)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Phone Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/393/110x-m110x_series_cd-318788.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/393/110x-m110x_series_cd-318788.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "112BX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Chassis (Panel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.28, 10=2.46, 25=2.25, 50=2.16, 100=2.05, 250=1.84, 500=1.55, 1000=1.43, 2500=1.40 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Hi-D Jax"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "1/4 in"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "11587"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "502-112BX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Configuration"; Value = "Switched"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tradename"; Value = "Hi-D Jax"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Potentiometer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RV09AF-40-20K-B100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1 Gang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1 Turn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 10 C to + 70 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 25=1.11, 50=1.03, 100=0.940, 500=0.790, 1000=0.660, 2500=0.550, 5000=0.500, 10000=0.450 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Diameter"; Value = "6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Length"; Value = "20 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Type"; Value = "Knurled / Serrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "13035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "317-2090F-100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Rotary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R13(Potentiometer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RV09AF-40-20K-B100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1 Gang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1 Turn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 10 C to + 70 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 25=1.11, 50=1.03, 100=0.940, 500=0.790, 1000=0.660, 2500=0.550, 5000=0.500, 10000=0.450 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Diameter"; Value = "6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Length"; Value = "20 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Type"; Value = "Knurled / Serrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "13035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "317-2090F-100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Rotary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R20(Potentiometer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RV09AF-40-20K-B100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1 Gang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1 Turn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 10 C to + 70 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 25=1.11, 50=1.03, 100=0.940, 500=0.790, 1000=0.660, 2500=0.550, 5000=0.500, 10000=0.450 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Diameter"; Value = "6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Length"; Value = "20 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Type"; Value = "Knurled / Serrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "13035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "317-2090F-100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Rotary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R28(Potentiometer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RV09AF-40-20K-B100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1 Gang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1 Turn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 10 C to + 70 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 25=1.11, 50=1.03, 100=0.940, 500=0.790, 1000=0.660, 2500=0.550, 5000=0.500, 10000=0.450 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Diameter"; Value = "6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Length"; Value = "20 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Type"; Value = "Knurled / Serrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "13035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "317-2090F-100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Rotary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R29(Potentiometer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RV09AF-40-20K-B100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1 Gang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1 Turn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 10 C to + 70 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 25=1.11, 50=1.03, 100=0.940, 500=0.790, 1000=0.660, 2500=0.550, 5000=0.500, 10000=0.450 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Diameter"; Value = "6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Length"; Value = "20 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Type"; Value = "Knurled / Serrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "13035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "317-2090F-100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Rotary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R38(Potentiometer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RV09AF-40-20K-B100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1 Gang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1 Turn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 10 C to + 70 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 25=1.11, 50=1.03, 100=0.940, 500=0.790, 1000=0.660, 2500=0.550, 5000=0.500, 10000=0.450 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Diameter"; Value = "6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Length"; Value = "20 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Type"; Value = "Knurled / Serrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "13035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "317-2090F-100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Rotary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R43(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Vishay / Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Metal Film Resistors - Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/427/cmfind-239942.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/427/cmfind-239942.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.29 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.64 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CMF5527K000FHBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 55 C to + 175 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500 mW (1/2 W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.230, 100=0.179, 300=0.168, 500=0.158, 1000=0.120, 2000=0.110, 11000=0.090, 23000=0.080 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Metal Film Resistors Controlled Temp Coefficient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "27 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CMF Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CMF5527K1%T2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "50 PPM / C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Metal Film Resistors, Industrial, Precision"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250 V"; VariantName = "[No Variations]"
+Added Component: Designator=R49(Potentiometer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RV09AF-40-20K-A16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1 Gang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1 Turn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 10 C to + 70 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "50 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 25=1.11, 50=1.03, 100=0.940, 500=0.790, 1000=0.660, 2500=0.550, 5000=0.500, 10000=0.450 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1 MOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Diameter"; Value = "6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Length"; Value = "20 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Type"; Value = "Knurled / Serrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "317-2080F-1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Audio"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Rotary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R51(Potentiometer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Type"; Value = "Carbon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RV16AF-10-20R1-A1M-LA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1 Gang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1 Turn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125 mW (1/8 W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.61, 25=1.38, 50=1.23, 100=1.11, 500=0.910, 1000=0.850, 2500=0.790, 5000=0.720, 10000=0.670 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1 MOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Diameter"; Value = "0.25 in"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Length"; Value = "20 mm (0.7874 in)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Type"; Value = "Round"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "31JA601-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Audio"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder Lug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "30 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Rotary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R53(Potentiometer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Type"; Value = "Carbon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RV16AF-10-20R1-A1M-LA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1 Gang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1 Turn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125 mW (1/8 W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.61, 25=1.38, 50=1.23, 100=1.11, 500=0.910, 1000=0.850, 2500=0.790, 5000=0.720, 10000=0.670 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1 MOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Diameter"; Value = "0.25 in"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Length"; Value = "20 mm (0.7874 in)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Type"; Value = "Round"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "31JA601-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Audio"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder Lug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "30 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Rotary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R66(Potentiometer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha (Taiwan)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RV09AF-40-20K-B100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Gangs"; Value = "1 Gang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1 Turn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "- 10 C to + 70 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 25=1.11, 50=1.03, 100=0.940, 500=0.790, 1000=0.660, 2500=0.550, 5000=0.500, 10000=0.450 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Diameter"; Value = "6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Length"; Value = "20 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shaft Type"; Value = "Knurled / Serrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "13035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "317-2090F-100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Rotary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-MS550K"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator"; Value = "Paddle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "Mountain Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Size"; Value = "M6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Toggle Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/221/MS-200272-200731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/221/MS-200272-200731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Form"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Mountain Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "108-MS550K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Bushing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.10, 50=2.04, 100=1.97, 500=1.92, 1000=1.74, 2000=1.65, 5000=1.58 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "433"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-MS550K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - OFF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Seal"; Value = "Sealed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder Lug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Toggle Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating AC"; Value = "125 VAC"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SPDT Switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator"; Value = "Paddle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "Mountain Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Size"; Value = "M6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Toggle Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/221/MS-200272-200731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/221/MS-200272-200731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Form"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Mountain Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "108-MS550A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Bushing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.15, 50=2.09, 100=2.03, 500=1.97, 1000=1.80, 2000=1.71, 5000=1.63 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Status"; Value = "Not Recommended for New Designs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-MS550A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Seal"; Value = "Sealed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder Lug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Toggle Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating AC"; Value = "125 VAC"; VariantName = "[No Variations]"
+Added Component: Designator=S4(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-MS550K"; VariantName = "[No Variations]"
+Added Component: Designator=S5(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-MS550K"; VariantName = "[No Variations]"
+Added Component: Designator=S6(SPDT Switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator"; Value = "Paddle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "Mountain Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Size"; Value = "M6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Toggle Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/221/MS-200272-200731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/221/MS-200272-200731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Form"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Mountain Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "108-MS550A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Bushing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.15, 50=2.09, 100=2.03, 500=1.97, 1000=1.80, 2000=1.71, 5000=1.63 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Status"; Value = "Not Recommended for New Designs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-MS550A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Seal"; Value = "Sealed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder Lug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Toggle Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating AC"; Value = "125 VAC"; VariantName = "[No Variations]"
+Added Component: Designator=S7(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-MS550K"; VariantName = "[No Variations]"
+Added Component: Designator=S8(SPDT Switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator"; Value = "Paddle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "Mountain Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Size"; Value = "M6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Toggle Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/221/MS-200272-200731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/221/MS-200272-200731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Form"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Mountain Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "108-MS550A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Bushing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.15, 50=2.09, 100=2.03, 500=1.97, 1000=1.80, 2000=1.71, 5000=1.63 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Status"; Value = "Not Recommended for New Designs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-MS550A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Seal"; Value = "Sealed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder Lug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Toggle Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating AC"; Value = "125 VAC"; VariantName = "[No Variations]"
+Added Component: Designator=S9(SPDT Switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator"; Value = "Paddle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "Mountain Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Size"; Value = "M6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Toggle Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/221/MS-200272-200731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/221/MS-200272-200731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Form"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Mountain Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "108-MS550A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Bushing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.15, 50=2.09, 100=2.03, 500=1.97, 1000=1.80, 2000=1.71, 5000=1.63 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Status"; Value = "Not Recommended for New Designs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reeling"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS - Mouser"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Pack Qty"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-MS550A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Seal"; Value = "Sealed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder Lug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Toggle Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating AC"; Value = "125 VAC"; VariantName = "[No Variations]"
+Added Component: Designator=S11(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-MS550K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD2_1 Pin=D3-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetC17_2 Pin=D5-2
+Added Pin To Net: NetName=NetC22_2 Pin=LS1-1
+Added Pin To Net: NetName=BN Pin=LS1-2
+Added Pin To Net: NetName=BP Pin=Manual Gate-1
+Added Pin To Net: NetName=NetManual Gate_2 Pin=Manual Gate-2
+Added Pin To Net: NetName=NetOutput_0 Pin=Output-0
+Added Pin To Net: NetName=NetC21_1 Pin=Output-1
+Added Pin To Net: NetName=GND Pin=Output-2
+Added Pin To Net: NetName=BP Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=BN Pin=R1-3
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=BN Pin=R13-3
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R20-3
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=NetC9_2 Pin=R28-3
+Added Pin To Net: NetName=NetC9_2 Pin=R29-1
+Added Pin To Net: NetName=NetC9_2 Pin=R29-2
+Added Pin To Net: NetName=NetC10_1 Pin=R29-3
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_3 Pin=R38-3
+Added Pin To Net: NetName=BN Pin=R43-1
+Added Pin To Net: NetName=NetR38_3 Pin=R43-2
+Added Pin To Net: NetName=NetC17_2 Pin=R49-1
+Added Pin To Net: NetName=NetC17_2 Pin=R49-2
+Added Pin To Net: NetName=NetR48_2 Pin=R49-3
+Added Pin To Net: NetName=NetD2_2 Pin=R51-1
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR50_1 Pin=R51-3
+Added Pin To Net: NetName=NetD3_1 Pin=R53-1
+Added Pin To Net: NetName=NetR51_2 Pin=R53-2
+Added Pin To Net: NetName=NetR51_2 Pin=R53-3
+Added Pin To Net: NetName=BN Pin=R66-1
+Added Pin To Net: NetName=NetC21_2 Pin=R66-2
+Added Pin To Net: NetName=NetQ7_2 Pin=R66-3
+Added Pin To Net: NetName=NetR20_1 Pin=S1-1
+Added Pin To Net: NetName=NetQ9_2 Pin=S1-2
+Added Pin To Net: NetName=NetC17_2 Pin=S2-1
+Added Pin To Net: NetName=NetC6_1 Pin=S2-2
+Added Pin To Net: NetName=NetR31_2 Pin=S3-1
+Added Pin To Net: NetName=NetC8_1 Pin=S3-2
+Added Pin To Net: NetName=NetC2_1 Pin=S3-3
+Added Pin To Net: NetName=NetQ6_3 Pin=S4-1
+Added Pin To Net: NetName=NetC12_1 Pin=S4-2
+Added Pin To Net: NetName=NetC10_2 Pin=S5-1
+Added Pin To Net: NetName=NetQ7_2 Pin=S5-2
+Added Pin To Net: NetName=NetQ9_2 Pin=S6-1
+Added Pin To Net: NetName=NetR38_1 Pin=S6-2
+Added Pin To Net: NetName=NetR13_1 Pin=S6-3
+Added Pin To Net: NetName=NetC17_2 Pin=S7-1
+Added Pin To Net: NetName=NetC17_1 Pin=S7-2
+Added Pin To Net: NetName=NetQ10_2 Pin=S8-1
+Added Pin To Net: NetName=NetD2_1 Pin=S8-2
+Added Pin To Net: NetName=NetR58_2 Pin=S8-3
+Added Pin To Net: NetName=NetC19_2 Pin=S9-1
+Added Pin To Net: NetName=NetR13_1 Pin=S9-2
+Added Pin To Net: NetName=NetC17_1 Pin=S9-3
+Added Pin To Net: NetName=NetB1_1 Pin=S11-1
+Added Pin To Net: NetName=BP Pin=S11-2
+Added Member To Class: ClassName=AD Generator Member=Component D2 1N914
+Added Member To Class: ClassName=AD Generator Member=Component D3 1N914
+Added Member To Class: ClassName=LFO Member=Component D5 LED0
+Added Member To Class: ClassName=Audio Amplifier Member=Component LS1 Speaker
+Added Member To Class: ClassName=AD Generator Member=Component Manual Gate S10
+Added Member To Class: ClassName=Audio Amplifier Member=Component Output LineOut
+Added Member To Class: ClassName=VCO Member=Component R1 100K
+Added Member To Class: ClassName=VCO Member=Component R13 100K
+Added Member To Class: ClassName=VCO Member=Component R20 Potentiometer
+Added Member To Class: ClassName=VC LPF Member=Component R28 100K
+Added Member To Class: ClassName=VC LPF Member=Component R29 100K
+Added Member To Class: ClassName=VC LPF Member=Component R38 100K
+Added Member To Class: ClassName=VC LPF Member=Component R43 27K
+Added Member To Class: ClassName=LFO Member=Component R49 1M
+Added Member To Class: ClassName=AD Generator Member=Component R51 1M Pot
+Added Member To Class: ClassName=AD Generator Member=Component R53 1M
+Added Member To Class: ClassName=Audio Amplifier Member=Component R66 100K
+Added Member To Class: ClassName=VCO Member=Component S1 AR Mod On/Off
+Added Member To Class: ClassName=VCO Member=Component S2 Sync Effect
+Added Member To Class: ClassName=VC LPF Member=Component S3 VCO WAVE TO VCF SELECT
+Added Member To Class: ClassName=VC LPF Member=Component S4 NOISE TO VCF
+Added Member To Class: ClassName=VCA Member=Component S5 VCA Bypass
+Added Member To Class: ClassName=VC LPF Member=Component S6 VCF Mod Source Select
+Added Member To Class: ClassName=LFO Member=Component S7 SW-SPST
+Added Member To Class: ClassName=AD Generator Member=Component S8 Repeat
+Added Member To Class: ClassName=LFO Member=Component S9 SPDT Switch
+Added Member To Class: ClassName=Top Member=Component S11 Power Supply Switch

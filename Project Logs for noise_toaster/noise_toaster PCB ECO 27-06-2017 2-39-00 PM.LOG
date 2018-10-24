@@ -1,0 +1,60 @@
+Change Component DesignItemId : Designator=C14 Old DesignItemId=Cap2 New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C23 Old DesignItemId=Cap2 New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap Pol3 New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C15 Old DesignItemId=Cap Pol3 New DesignItemId=Cap Pol1
+Change Component Footprint: Designator=C1 Old Footprint=C0805 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C15 Old Footprint=C0805 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C14 Old Footprint=CAPR5-4X5 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C23 Old Footprint=CAPR5-4X5 New Footprint=RB7.6-15
+Change Component Comment : Designator=C14 Old Comment=Cap2 New Comment=
+Change Component Comment : Designator=C23 Old Comment=Cap2 New Comment=
+Change Component Comment : Designator=C1 Old Comment=Cap Pol3 New Comment=
+Change Component Comment : Designator=C15 Old Comment=Cap Pol3 New Comment=
+Change Component Description : Designator=C14 Old Description=Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C23 Old Description=Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C1 Old Description=Polarized Capacitor (Surface Mount) New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C15 Old Description=Polarized Capacitor (Surface Mount) New Description=Polarized Capacitor (Radial)
+Change component parameters: Designator = "C1"; Footprint = "RB7.6-15"; UniqueID = "\DYRTWNSC\WKLVRDNW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "RB7.6-15"; UniqueID = "\YQQPFCXJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14"; Footprint = "RB7.6-15"; UniqueID = "\UXBQSGBQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "RB7.6-15"; UniqueID = "\OXLHKXKS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Room: Name=AD Generator
+Added Room: Name=Audio Amplifier
+Added Room: Name=LFO
+Added Room: Name=Top
+Added Room: Name=VCA
+Added Room: Name=VC LPF
+Added Room: Name=VCO
+Added Room: Name=White Noise Generator

@@ -1,0 +1,6 @@
+Change Value of Parameter Supplier 1 in Part Q1 Old=Digi-Key New=Mouser
+Change Value of Parameter Supplier Part Number 1 in Part Q1 Old=MMBF4391LT1OSCT-ND New=863-MMBF4391LT1G
+Added Parameter Supplier 2=Mouser to Part Q1
+Added Parameter Supplier Part Number 2=863-MMBF4391LT1G to Part Q1
+Added Parameter Transistor Polarity=N-Channel to Part Q1
+Added Parameter Vds - Drain-Source Breakdown Voltage=30 V to Part Q1

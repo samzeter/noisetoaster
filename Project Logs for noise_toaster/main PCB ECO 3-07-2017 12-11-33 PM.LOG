@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC21_1 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Member From Class: ClassName=Audio Amplifier Member=J1
+Added Component: Designator=Output(Stereo Jack)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC21_1 Pin=Output-1
+Added Pin To Net: NetName=GND Pin=Output-2
+Added Pin To Net: NetName=NetOutput_0 Pin=Output-0
+Added Pin To Net: NetName=NetOutput_0 Pin=R67-1
+Added Pin To Net: NetName=NetOutput_0 Pin=X27-1
+Added Net: Name=NetOutput_0
+Added Member To Class: ClassName=Audio Amplifier Member=Component Output LineOut
